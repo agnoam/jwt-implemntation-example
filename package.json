@@ -1,0 +1,19 @@
+{
+  "name": "jwtproject",
+  "version": "1.0.0",
+  "description": "JsonWebToken addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agnoam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "js-sha512": "^0.7.1",
+    "node-rsa": "^0.4.2",
+    "nodejs-base64-encode": "0.0.2",
+    "os": "^0.1.1"
+  }
+}
